@@ -1,14 +1,14 @@
 [
     {
-        "name": "project1",
-        "live": "https://app.herokuapp.com/whatever",
-        "git": "http://www.github.com/username/reponame",
-        "image": "http://www.imgur.com/pictureofproject.png"
+        "name": "Named Space Card Game",
+        "live": "https://space-card.onrender.com",
+        "git": "https://github.com/Jcemrick/project2.git",
+        "image": "https://i.imgur.com/etZR7yG.png"
     },
     {
-        "name": "project2",
-        "live": "https://app.netlify.app/whatever",
-        "git": "http://www.github.com/username/reponame",
-        "image": "http://www.imgur.com/pictureofproject.png"
+        "name": "Pokedex",
+        "live": "https://pokedex-3o7q.onrender.com",
+        "git": "https://github.com/Jcemrick/pokedex.git",
+        "image": "https://i.imgur.com/o9xCuc2.png"
     }
 ]
