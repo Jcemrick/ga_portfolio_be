@@ -1,6 +1,12 @@
 {
     "name": "Joe Emrick",
-    "email": "jcemrick@gmail.com",
+    "level": "36",
+    "hp": "100/100",
+    "stamina": "75/75",
+    "magic": "35/35",
+    "weakness": "water",
+    "strength": "stress",
+    "email": "Jcemrick@gmail.com",
     "headshot": "https://i.imgur.com/ZAKe6Fk.jpg",
     "bio": "Born fully as a fully grown human - stunned the medical community across the world...Also attended General Assembly starting in 2022."
 }
